@@ -8,6 +8,6 @@ foo:
   foo1: bar1
 logging:
   level:
-    ROOT: DEBUG
+    ROOT: INFO
 ---
 ~
