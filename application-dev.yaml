@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: spring-boot-example
+---
+spring:
+  profiles: dev
+foo:
+  foo1: bar1
+logging:
+  level:
+    ROOT: INFO
+---
+~
